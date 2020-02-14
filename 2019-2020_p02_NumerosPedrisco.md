@@ -31,7 +31,7 @@ E imprimirá `N-M+1` líneas con el formato:
 
     <número> - <número de interaciones>
 
-El programa calculará asimismo los números `p` y `q` (N <= `p`, `q` <=$ M) que requieren el máximo y mínimo número de iteraciones del proceso 'pedrisco' en ese rango.
+El programa calculará asimismo los números `p` y `q` (N <= `p`, `q` <= M) que requieren el máximo y mínimo número de iteraciones del proceso 'pedrisco' en ese rango.
 
 Se requiere que el código esté escrito siguiendo los criterios especificados en la [Google JavaScript Style Guide][1].
 Estudie ese documento y ponga en práctica todo lo que él se indica.
